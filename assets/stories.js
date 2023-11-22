@@ -1,8 +1,9 @@
 export default [
-  "Teks pertama",
-  "Teks kedua",
-  "Teks ketiga",
-  "Teks ke- n",
-  "Masih bingung diisi apa..",
-  "Aku sayang kamu!"
+  "a teaspoon of heartfelt conversations,",
+  "a pinch of shared experiences,",
+  "a handful of affectionate gestures,",
+  "a dash of genuine care,",
+  "a cup of your smile,",
+  "and i never knew that love had a sound,",
+  "until i heard you laugh."
 ];

@@ -1,10 +1,10 @@
 export default {
-  nicknames: ["Honey", "Cewe q", "Jihyo", "Sweety", "C~", "By"],
+  nicknames: ["Honey", "Cewekyu", "Jihyo", "Sweetie", "R~", "Byy"],
   greetings: {
     evening: "Good Evening",
     afternoon: "Good Afternoon",
-    day: "Good Day",
-    morning: "Good Morning",
-    night: "Good Night"
+    day: "Good Dayyyy",
+    morning: "Good Mowning",
+    night: "Good Niteee"
   }
 };
